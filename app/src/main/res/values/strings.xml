@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coco Chat</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="sala">Sala</string>
+    <string name="nombre">Nombre</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+</resources>
